@@ -12,3 +12,15 @@ Tenho grande interesse em aprender novas *tecnologias* e explorar diferentes ár
 
 * JavaScript
 * BackEnd e Banco de dados
+
+## Meu Primeiro Programa
+
+Abaixo está um exemplo clássico de "Olá, Mundo!" em C, utilizando a função `printf()` para exibir a mensagem na tela:
+
+
+#include <stdio.h>
+
+int main() {
+    printf("Olá, Mundo!\n");
+    return 0;
+}
